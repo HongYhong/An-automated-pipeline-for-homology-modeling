@@ -4,7 +4,7 @@
 
 This pipeline is built for high-throughput generation of homology-models of a sets of enzymes with only the sequence information.
 
-The modeling method is based on the [Basic Modeling tutorial](https://salilab.org/modeller/tutorial/basic.html) of Modeller, and the template selection rule is just to select the structure with the highest sequence similarity to the modeled sequence.
+The modeling method is based on the [Basic Modeling tutorial](https://salilab.org/modeller/tutorial/basic.html) of Modeller, and the template selection rule is just to select the structure with the highest sequence identity to the target sequence.
 
 The default e-value cutoff is 0.01.
 
